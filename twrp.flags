@@ -1,0 +1,3 @@
+
+# Removable storage
+/usb-otg                   auto                /dev/block/sdg1    /dev/block/sdg                      flags=display="usb-otg";storage;wipeingui;removable;fsflags="utf8"
